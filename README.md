@@ -10,7 +10,7 @@
 
 <p align="center">
   B.Tech CSE student at <b>Guru Nanak Dev Engineering College, Ludhiana</b> (2028).<br/>
-  I build full-stack products and AI-assisted tools, and I practice DSA daily.<br/>
+  I build full-stack web applications and I practice DSA daily.<br/>
   <b>Open to remote / part-time SDE internships.</b>
 </p>
 
@@ -113,15 +113,3 @@ Browse everything on my portfolio and pinned repositories.
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingmastergurkirat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmastergurkirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <b>Let's build something together →</b> <a href="mailto:gurkiratjap@gmail.com">gurkiratjap@gmail.com</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
